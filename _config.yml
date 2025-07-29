@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://donovinomeara.github.io"
-baseurl: "/blog"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://donovinomeara.github.io/blog/gallery/"  
-  - JOURNAL: "https://donovinomeara.github.io/blog/journal/"
-  - ABOUT: "https://donovinomeara.github.io/blog/about/"
+  - GALLERY: "https://donovinomeara.github.io/gallery/"  
+  - JOURNAL: "https://donovinomeara.github.io/journal/"
+  - ABOUT: "https://donovinomeara.github.io/about/"
 
 # All translation keys
 translations:
